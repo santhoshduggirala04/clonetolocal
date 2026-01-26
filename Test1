@@ -1,1 +1,53 @@
 Testing to clomne
+
+
+
+9:52 PM
+Hi
+Hover over a message to pin it
+keep
+
+Santosh duggirala
+9:52 PM
+https://github.com/santhoshduggirala04/clonetolocal
+
+Santosh duggirala
+10:21 PM
+1. Code repository - like . GitHub. bitbucket, Azure git.                                            - Code
+2. CICD - build and deployment - Azure DevOps ( VSTS, TFS). GitHub Actions, Jenkins, Git Lab, etc
+3. Clout - Azure, AWS. Google public cloud providers
+4. Configuration Management Tool - examples Ansible, Terraform, Chef, puppet.. 
+5. Docker and Kubernetes - 
+6. Monitoring 
+
+
+
+1. GitHub 
+
+
+FE - 3 developers
+
+branching strategy - Gitflow , GitHub , 
+
+default - ,main or master.
+
+
+how to create repo,
+
+how to create nranch
+
+how to commit code
+
+hot to merge code by creating Pull request
+
+how to provide access to other on our repo
+
+branch protection rules
+
+develop/master -  feature
+
+
+4 weeks sprint - 2 features production , Jan 2nd jan 28th , 29th release production.
+
+master / -  release/1.0.0 - release/29-01-2026 - qa environment deploy - QA testing -  UAT - Prod deployment  -
+uci-uuqd-sae
